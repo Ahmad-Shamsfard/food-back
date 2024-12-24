@@ -25,7 +25,7 @@ This repository contains the back-end implementation for a demo food ordering sy
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/food-ordering-backend.git
+   git clone https://github.com/Ahmad-Shamsfard/food-back.git
    ```
 2. Navigate to the project directory:
    ```bash
