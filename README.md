@@ -1,7 +1,3 @@
-Here’s the updated README with the "License" section removed:
-
----
-
 # Food Ordering System - Back-End
 
 This repository contains the back-end implementation for a demo food ordering system. It provides a robust API to handle user authentication, menu management, order processing, and more, enabling seamless interaction between the front-end and the server.
@@ -73,7 +69,3 @@ food-ordering-backend/
 ├── package.json        # Project dependencies and scripts
 └── README.md           # Project documentation
 ```
-
----
-
-Let me know if there’s anything else you’d like to adjust!
