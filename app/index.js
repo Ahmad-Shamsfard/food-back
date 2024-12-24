@@ -62,7 +62,7 @@ class Application {
 
   setupMongoose() {
     mongoose
-      .connect('mongodb://localhost:27017/nodeFood',  { useUnifiedTopology: true } )
+      .connect('mongodb://localhost:27017/nodeFood',  {useUnifiedTopology: true, useNewUrlParser: true, useCreateIndex: true, useFindAndModify: false } )
       .then(() => {
         console.log('db connected');
         winston.info('db connected');
